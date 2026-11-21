@@ -11,10 +11,10 @@
 | 3   | Two Pointers           | 🟢 Complete | 4/4  |
 | 4   | Sliding Window         | 🟢 Complete | 4/4  |
 | 5   | Stack                  | 🟢 Pending  | 4/4  |
-| 6   | Binary Search          | ⚪ Pending  | 0/4  |
+| 6   | Binary Search          | 🟢 Complete | 4/4  |
 | 7   | Linked List            | 🟢 Pending  | 4/4  |
-| 8   | Trees                  | ⚪ Pending  | 0/4  |
-| 9   | Trees & Heap           | ⚪ Pending  | 0/4  |
+| 8   | Trees                  | 🟢 Complete | 4/4  |
+| 9   | Trees & Heap           | ⚪ Pending  | 3/4  |
 | 10  | Graphs & DP            | ⚪ Pending  | 0/4  |
 
 ---
@@ -58,10 +58,10 @@
 
 ### Day 6 – Binary Search
 
-- [ ] **Binary Search | [Problem Link](https://leetcode.com/problems/binary-search/) (Easy)**
-- [ ] **Search in Rotated Sorted Array | [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Medium)**
-- [ ] **Find Minimum in Rotated Sorted Array | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Medium)**
-- [ ] **Koko Eating Bananas | [Problem Link](https://leetcode.com/problems/koko-eating-bananas/) (Medium)**
+- [x] **Binary Search | [Problem Link](https://leetcode.com/problems/binary-search/) (Easy)**
+- [x] **Search in Rotated Sorted Array | [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Medium)**
+- [x] **Find Minimum in Rotated Sorted Array | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Medium)**
+- [x] **Koko Eating Bananas | [Problem Link](https://leetcode.com/problems/koko-eating-bananas/) (Medium)**
 
 ### Day 7 – Linked List
 
@@ -72,16 +72,16 @@
 
 ### Day 8 – Trees
 
-- [ ] **Maximum Depth of Binary Tree | [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)**
-- [ ] **Binary Tree Level Order Traversal | [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)**
-- [ ] **Validate Binary Search Tree | [Problem Link](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)**
-- [ ] **Diameter of Binary Tree | [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) (Easy)**
+- [x] **Maximum Depth of Binary Tree | [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)**
+- [x] **Binary Tree Level Order Traversal | [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)**
+- [x] **Validate Binary Search Tree | [Problem Link](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)**
+- [x] **Diameter of Binary Tree | [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) (Easy)**
 
 ### Day 9 – Trees + Heap/Greedy
 
-- [ ] **Lowest Common Ancestor of a BST | [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (Medium)**
-- [ ] **Kth Smallest Element in a BST | [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (Medium)**
-- [ ] **Top K Frequent Elements | [Problem Link](https://leetcode.com/problems/top-k-frequent-elements/) (Medium)**
+- [x] **Lowest Common Ancestor of a BST | [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (Medium)**
+- [x] **Kth Smallest Element in a BST | [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (Medium)**
+- [x] **Top K Frequent Elements | [Problem Link](https://leetcode.com/problems/top-k-frequent-elements/) (Medium)**
 - [ ] **Task Scheduler | [Problem Link](https://leetcode.com/problems/task-scheduler/) (Medium)**
 
 ### Day 10 – Graphs & DP
