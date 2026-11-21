@@ -1,6 +1,6 @@
 # 10-Day LeetCode Grind - 40 Problems
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orangered) ![Progress](https://img.shields.io/badge/Progress-60%25-darkgreen)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orangered) ![Progress](https://img.shields.io/badge/Progress-87%25-darkgreen)
 
 ## Progress Summary
 
